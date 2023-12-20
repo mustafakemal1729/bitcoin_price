@@ -10,3 +10,5 @@ This repository contains a Python script for analyzing and visualizing the month
   - yfinance
   - pandas
   - matplotlib
+
+  ![figure](figure.png)
