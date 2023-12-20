@@ -6,7 +6,6 @@ This repository contains a Python script for analyzing and visualizing the month
 ### Prerequisites
 
 - Python 3
-- Required Python packages (install using `pip install -r requirements.txt`):
   - yfinance
   - pandas
   - matplotlib
